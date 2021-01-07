@@ -650,15 +650,15 @@
   position:absolute;
   left:0px;
   top:80px;
-  width:1200px;
-  height:800px;
+  width:1196px;
+  height:796px;
 }
 #u8_input {
-  border-width:0px;
+  border-width:2px;
   position:absolute;
   left:0px;
   top:0px;
-  width:1200px;
-  height:800px;
+  width:1196px;
+  height:796px;
   overflow:auto;
 }
