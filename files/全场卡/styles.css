@@ -17,7 +17,7 @@
   position:absolute;
   z-index:0;
 }
-#u1803_img {
+#u518_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -25,7 +25,7 @@
   width:375px;
   height:1947px;
 }
-#u1803 {
+#u518 {
   border-width:0px;
   position:absolute;
   left:100px;
@@ -34,20 +34,20 @@
   height:1947px;
   display:flex;
 }
-#u1803 .text {
+#u518 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1803_text {
+#u518_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u1804 {
+#u519 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -55,7 +55,7 @@
   width:0px;
   height:0px;
 }
-#u1805 {
+#u520 {
   border-width:0px;
   position:absolute;
   left:601px;
@@ -66,7 +66,7 @@
   font-weight:400;
   font-style:normal;
 }
-#u1805_seg0 {
+#u520_seg0 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -74,7 +74,7 @@
   width:974px;
   height:10px;
 }
-#u1805_text {
+#u520_text {
   border-width:0px;
   position:absolute;
   left:434px;
@@ -84,7 +84,7 @@
   text-transform:none;
   visibility:hidden;
 }
-#u1806_div {
+#u521_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -104,7 +104,7 @@
   font-size:14px;
   color:#FFFFFF;
 }
-#u1806 {
+#u521 {
   border-width:0px;
   position:absolute;
   left:600px;
@@ -118,19 +118,19 @@
   font-size:14px;
   color:#FFFFFF;
 }
-#u1806 .text {
+#u521 .text {
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
-#u1806_text {
+#u521_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u1807_div {
+#u522_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -147,7 +147,7 @@
   font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
   font-style:normal;
 }
-#u1807 {
+#u522 {
   border-width:0px;
   position:absolute;
   left:601px;
@@ -158,15 +158,227 @@
   font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
   font-style:normal;
 }
-#u1807 .text {
+#u522 .text {
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
-#u1807_text {
+#u522_text {
   border-width:0px;
   white-space:nowrap;
   text-transform:none;
+}
+#u523 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+}
+#u524_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:396px;
+  height:599px;
+}
+#u524 {
+  border-width:0px;
+  position:absolute;
+  left:601px;
+  top:278px;
+  width:396px;
+  height:599px;
+  display:flex;
+}
+#u524 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u524_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u525_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:320px;
+  height:24px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:18px;
+}
+#u525 {
+  border-width:0px;
+  position:absolute;
+  left:609px;
+  top:229px;
+  width:320px;
+  height:24px;
+  display:flex;
+  font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:18px;
+}
+#u525 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u525_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u526 {
+  border-width:0px;
+  position:absolute;
+  left:973px;
+  top:575px;
+  width:0px;
+  height:0px;
+}
+#u526_seg0 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:-5px;
+  width:62px;
+  height:10px;
+}
+#u526_seg1 {
+  border-width:0px;
+  position:absolute;
+  left:52px;
+  top:-207px;
+  width:10px;
+  height:212px;
+}
+#u526_seg2 {
+  border-width:0px;
+  position:absolute;
+  left:52px;
+  top:-207px;
+  width:76px;
+  height:10px;
+}
+#u526_text {
+  border-width:0px;
+  position:absolute;
+  left:7px;
+  top:-116px;
+  width:100px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u527 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+}
+#u528_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:448px;
+  height:190px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  box-sizing:border-box;
+  border-width:2px;
+  border-style:solid;
+  border-color:rgba(0, 153, 204, 1);
+  border-top:0px;
+  border-right:0px;
+  border-bottom:0px;
+  border-radius:0px;
+  border-top-left-radius:0px;
+  border-bottom-left-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑', sans-serif;
+  font-style:normal;
+}
+#u528 {
+  border-width:0px;
+  position:absolute;
+  left:1101px;
+  top:278px;
+  width:448px;
+  height:190px;
+  display:flex;
+  font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑', sans-serif;
+  font-style:normal;
+}
+#u528 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 5px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u528_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u529_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:347px;
+  height:517px;
+}
+#u529 {
+  border-width:0px;
+  position:absolute;
+  left:626px;
+  top:316px;
+  width:347px;
+  height:517px;
+  display:flex;
+  font-size:14px;
+  color:#FF3399;
+}
+#u529 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u529_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
 }

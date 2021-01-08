@@ -168,4 +168,13 @@
 }
 .flow_shape {
 }
+._形状1 {
+  font-size:13px;
+  color:#000000;
+}
+._文本框1 {
+  font-size:13px;
+  color:#000000;
+  text-align:left;
+}
 textarea, select, input, button { outline: none; }

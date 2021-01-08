@@ -17,7 +17,7 @@
   position:absolute;
   z-index:0;
 }
-#u1752_img {
+#u113_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -25,7 +25,7 @@
   width:375px;
   height:2412px;
 }
-#u1752 {
+#u113 {
   border-width:0px;
   position:absolute;
   left:100px;
@@ -34,20 +34,20 @@
   height:2412px;
   display:flex;
 }
-#u1752 .text {
+#u113 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u1752_text {
+#u113_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u1753 {
+#u114 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -55,7 +55,7 @@
   width:0px;
   height:0px;
 }
-#u1754 {
+#u115 {
   border-width:0px;
   position:absolute;
   left:601px;
@@ -66,7 +66,7 @@
   font-weight:400;
   font-style:normal;
 }
-#u1754_seg0 {
+#u115_seg0 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -74,7 +74,7 @@
   width:974px;
   height:10px;
 }
-#u1754_text {
+#u115_text {
   border-width:0px;
   position:absolute;
   left:434px;
@@ -84,7 +84,7 @@
   text-transform:none;
   visibility:hidden;
 }
-#u1755_div {
+#u116_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -104,7 +104,7 @@
   font-size:14px;
   color:#FFFFFF;
 }
-#u1755 {
+#u116 {
   border-width:0px;
   position:absolute;
   left:600px;
@@ -118,25 +118,25 @@
   font-size:14px;
   color:#FFFFFF;
 }
-#u1755 .text {
+#u116 .text {
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
-#u1755_text {
+#u116_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u1756_div {
+#u117_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
   width:544px;
-  height:93px;
+  height:129px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -147,25 +147,25 @@
   font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
   font-style:normal;
 }
-#u1756 {
+#u117 {
   border-width:0px;
   position:absolute;
   left:601px;
   top:125px;
   width:544px;
-  height:93px;
+  height:129px;
   display:flex;
   font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
   font-style:normal;
 }
-#u1756 .text {
+#u117 .text {
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
-#u1756_text {
+#u117_text {
   border-width:0px;
   white-space:nowrap;
   text-transform:none;
