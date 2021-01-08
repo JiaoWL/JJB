@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="347px" height="180px" xmlns="http://www.w3.org/2000/svg">
-  <g transform="matrix(1 0 0 1 -643 -445 )">
-    <path d="M 644 449  A 3 3 0 0 1 647 446 L 986 446  A 3 3 0 0 1 989 449 L 989 621  A 3 3 0 0 1 986 624 L 647 624  A 3 3 0 0 1 644 621 L 644 449  Z " fill-rule="nonzero" fill="#ff3399" stroke="none" fill-opacity="0.0980392156862745" />
-    <path d="M 643.5 449  A 3.5 3.5 0 0 1 647 445.5 L 986 445.5  A 3.5 3.5 0 0 1 989.5 449 L 989.5 621  A 3.5 3.5 0 0 1 986 624.5 L 647 624.5  A 3.5 3.5 0 0 1 643.5 621 L 643.5 449  Z " stroke-width="1" stroke-dasharray="9,4" stroke="#ff3399" fill="none" stroke-dashoffset="0.5" />
+  <g transform="matrix(1 0 0 1 -643 -504 )">
+    <path d="M 644 508  A 3 3 0 0 1 647 505 L 986 505  A 3 3 0 0 1 989 508 L 989 680  A 3 3 0 0 1 986 683 L 647 683  A 3 3 0 0 1 644 680 L 644 508  Z " fill-rule="nonzero" fill="#ff3399" stroke="none" fill-opacity="0.0980392156862745" />
+    <path d="M 643.5 508  A 3.5 3.5 0 0 1 647 504.5 L 986 504.5  A 3.5 3.5 0 0 1 989.5 508 L 989.5 680  A 3.5 3.5 0 0 1 986 683.5 L 647 683.5  A 3.5 3.5 0 0 1 643.5 680 L 643.5 508  Z " stroke-width="1" stroke-dasharray="9,4" stroke="#ff3399" fill="none" stroke-dashoffset="0.5" />
   </g>
 </svg>
