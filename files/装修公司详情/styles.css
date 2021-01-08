@@ -702,7 +702,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'黑体 Bold', '黑体', sans-serif;
+  font-family:'黑体 Bold', '黑体 Regular', '黑体', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -715,7 +715,7 @@
   width:236px;
   height:39px;
   display:flex;
-  font-family:'黑体 Bold', '黑体', sans-serif;
+  font-family:'黑体 Bold', '黑体 Regular', '黑体', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -896,7 +896,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'黑体 Bold', '黑体', sans-serif;
+  font-family:'黑体 Bold', '黑体 Regular', '黑体', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -910,7 +910,7 @@
   width:66px;
   height:21px;
   display:flex;
-  font-family:'黑体 Bold', '黑体', sans-serif;
+  font-family:'黑体 Bold', '黑体 Regular', '黑体', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -1160,7 +1160,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'黑体 Bold', '黑体', sans-serif;
+  font-family:'黑体 Bold', '黑体 Regular', '黑体', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -1173,7 +1173,7 @@
   width:236px;
   height:39px;
   display:flex;
-  font-family:'黑体 Bold', '黑体', sans-serif;
+  font-family:'黑体 Bold', '黑体 Regular', '黑体', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -1354,7 +1354,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'黑体 Bold', '黑体', sans-serif;
+  font-family:'黑体 Bold', '黑体 Regular', '黑体', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -1368,7 +1368,7 @@
   width:66px;
   height:21px;
   display:flex;
-  font-family:'黑体 Bold', '黑体', sans-serif;
+  font-family:'黑体 Bold', '黑体 Regular', '黑体', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -1663,7 +1663,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'黑体 Bold', '黑体', sans-serif;
+  font-family:'黑体 Bold', '黑体 Regular', '黑体', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -1676,7 +1676,7 @@
   width:236px;
   height:39px;
   display:flex;
-  font-family:'黑体 Bold', '黑体', sans-serif;
+  font-family:'黑体 Bold', '黑体 Regular', '黑体', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -1857,7 +1857,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'黑体 Bold', '黑体', sans-serif;
+  font-family:'黑体 Bold', '黑体 Regular', '黑体', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -1871,7 +1871,7 @@
   width:66px;
   height:21px;
   display:flex;
-  font-family:'黑体 Bold', '黑体', sans-serif;
+  font-family:'黑体 Bold', '黑体 Regular', '黑体', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:18px;

@@ -1436,7 +1436,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'微软雅黑', sans-serif;
+  font-family:'微软雅黑 Regular', '微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   color:#CCCCCC;
@@ -1450,7 +1450,7 @@
   width:70px;
   height:30px;
   display:flex;
-  font-family:'微软雅黑', sans-serif;
+  font-family:'微软雅黑 Regular', '微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   color:#CCCCCC;
@@ -3104,7 +3104,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'微软雅黑', sans-serif;
+  font-family:'微软雅黑 Regular', '微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -3119,7 +3119,7 @@
   width:180px;
   height:35px;
   display:flex;
-  font-family:'微软雅黑', sans-serif;
+  font-family:'微软雅黑 Regular', '微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -3243,7 +3243,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'微软雅黑', sans-serif;
+  font-family:'微软雅黑 Regular', '微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   color:#CCCCCC;
@@ -3257,7 +3257,7 @@
   width:70px;
   height:30px;
   display:flex;
-  font-family:'微软雅黑', sans-serif;
+  font-family:'微软雅黑 Regular', '微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   color:#CCCCCC;
@@ -3365,31 +3365,47 @@
 #u2096_seg1 {
   border-width:0px;
   position:absolute;
-  left:-252px;
+  left:-153px;
   top:-5px;
-  width:257px;
+  width:158px;
   height:10px;
 }
 #u2096_seg2 {
   border-width:0px;
   position:absolute;
-  left:-252px;
+  left:-153px;
   top:-5px;
   width:10px;
-  height:74px;
+  height:65px;
 }
 #u2096_seg3 {
   border-width:0px;
   position:absolute;
-  left:-256px;
-  top:59px;
+  left:-168px;
+  top:50px;
+  width:25px;
+  height:10px;
+}
+#u2096_seg4 {
+  border-width:0px;
+  position:absolute;
+  left:-168px;
+  top:55px;
+  width:10px;
+  height:5px;
+}
+#u2096_seg5 {
+  border-width:0px;
+  position:absolute;
+  left:-172px;
+  top:45px;
   width:18px;
   height:18px;
 }
 #u2096_text {
   border-width:0px;
   position:absolute;
-  left:-208px;
+  left:-159px;
   top:-8px;
   width:100px;
   word-wrap:break-word;
@@ -3462,8 +3478,8 @@
 #u2100 {
   border-width:0px;
   position:absolute;
-  left:600px;
-  top:423px;
+  left:684px;
+  top:409px;
   width:416px;
   height:60px;
   display:flex;
@@ -3495,8 +3511,8 @@
 #u2101 {
   border-width:0px;
   position:absolute;
-  left:600px;
-  top:423px;
+  left:684px;
+  top:409px;
   width:1px;
   height:14px;
   display:flex;
@@ -3531,7 +3547,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'微软雅黑', sans-serif;
+  font-family:'微软雅黑 Regular', '微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -3546,7 +3562,7 @@
   width:180px;
   height:35px;
   display:flex;
-  font-family:'微软雅黑', sans-serif;
+  font-family:'微软雅黑 Regular', '微软雅黑', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
